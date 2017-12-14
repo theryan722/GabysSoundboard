@@ -25,3 +25,10 @@ var mainView = app.addView('.view-main', {
 //------ End Initialize Framework7 -------
 
 mainView.router.loadPage('pages/words.html');
+
+//============Words=========================
+function playWord_Armageddon() {
+    let audio = new Audio('audio/words/armageddon.mp3');
+    audio.play();
+}
+//===============End Words==================
