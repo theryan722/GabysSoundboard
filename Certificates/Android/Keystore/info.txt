@@ -1,0 +1,12 @@
+Keystore Password: anj985gKl!
+key password for <GabysSoundboard> same as keystore password
+First & Last Name: Ryan O'Day
+Organizational Unit: Developer
+Organization: Ryan O'Day
+City or Locality: Westchester
+State or province: New York
+2 letterCountry Code: US
+Alias: GabysSoundboard
+
+Command used to generate: keytool -genkey -v -keystore M:/GabysSoundboard/Certificates/Android/Keystore/gabyssoundboard.keystore -alias GabysSoundboard -keyalg RSA -keysize 2048 -validity 10000
+Command used to sign: java -jar uber-apk-signer.jar -a ./apk --ks gabyssoundboard.keystore --ksAlias GabysSoundboard --out ./out
