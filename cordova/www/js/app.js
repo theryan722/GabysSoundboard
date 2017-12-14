@@ -31,4 +31,64 @@ function playWord_Armageddon() {
     let audio = new Audio('audio/words/armageddon.mp3');
     audio.play();
 }
+
+function playWord_Avengers() {
+    let audio = new Audio('audio/words/avengers.mp3');
+    audio.play();
+}
+
+function playWord_Thoroughly() {
+    let audio = new Audio('audio/words/thoroughly.mp3');
+    audio.play();
+}
+
+function playWord_Drawer() {
+    let audio = new Audio('audio/words/drawer.mp3');
+    audio.play();
+}
+
+function playWord_Acai() {
+    let audio = new Audio('audio/words/acai.mp3');
+    audio.play();
+}
+
+function playWord_Antarctica() {
+    let audio = new Audio('audio/words/antarctica.mp3');
+    audio.play();
+}
+
+function playWord_Cavalry() {
+    let audio = new Audio('audio/words/cavalry.mp3');
+    audio.play();
+}
+
+function playWord_Salmon() {
+    let audio = new Audio('audio/words/salmon.mp3');
+    audio.play();
+}
+
+function playWord_Jewelry() {
+    let audio = new Audio('audio/words/jewelry.mp3');
+    audio.play();
+}
+
+function playWord_Utilitarian() {
+    let audio = new Audio('audio/words/utilitarian.mp3');
+    audio.play();
+}
+
+function playWord_Ambivalence() {
+    let audio = new Audio('audio/words/ambivalence.mp3');
+    audio.play();
+}
+
+function playWord_Qualudes() {
+    let audio = new Audio('audio/words/qualudes.mp3');
+    audio.play();
+}
+
+function playWord_IsGivingOnTV() {
+    let audio = new Audio('audio/words/is_giving_on_tv.mp3');
+    audio.play();
+}
 //===============End Words==================
